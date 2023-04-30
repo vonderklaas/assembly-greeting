@@ -1,3 +1,9 @@
+### Hello Assembly
+
+Valid *Assembly* code for MacOS using NASM syntax. The code prints the greeting message to the console and then exits with a status code of 0.
+
+### Instructions
+
 If you are on MacOS, be sure you have installed _nasm_ package
 
 ```
